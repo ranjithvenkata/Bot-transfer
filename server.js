@@ -11,8 +11,8 @@ var ss = require('socket.io-stream');
 const fs = require('fs');
 var hmap = new HashMap();;
 var chokidar = require('chokidar');
-const datapath = '/home/ranjith/Documents/bot-transfer/data/';
-const zippath = '/home/ranjith/Documents/bot-transfer/'
+const datapath = '/home/ranjith/Documents/Bot-transfer-master/data/';
+const zippath = '/home/ranjith/Documents/Bot-transfer-master/'
 var zipFolder = require('zip-folder');
  
 
